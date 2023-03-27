@@ -3,7 +3,7 @@
 /**
  * main - main function
  *
- * Author: Thaoban Abdrasheed
+ * Author: Henriette Uwizeyimana
  * Return: void
  */
 int main(int argc, char *argv[])
